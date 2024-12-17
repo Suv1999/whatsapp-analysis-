@@ -1,1 +1,1 @@
-Link to Whatsapp_analyser - https://shorturl.at/mvqLQ
+Link to Whatsapp_analyser - https://745hifeaunvt9jappf5q5ud.streamlit.app/
