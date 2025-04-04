@@ -252,8 +252,7 @@ else:
 <div style="text-align: center; font-family: Arial, sans-serif; border-radius: 10px; padding: 20px; background-color: #FFCDD2; color: #B71C1C;">
     <h2 style="color: #B71C1C;">⚠️ Disclaimer ⚠️</h2>
     <p style="font-size: 16px; font-weight: bold;">
-        This Webapp is currently in the <b>Development Phase</b>.  
-        It only supports files in the <code>.csv</code> format.
+        This Webapp currently supports files in the <code>.csv</code> format.
     </p>
     <p style="font-size: 16px;">
         Please <a href="https://convertio.co/csv-converter/" style="color: #FFFFFF; font-weight: bold; text-decoration: none;">Click here</a> to convert your file to <code>.csv</code> format 
